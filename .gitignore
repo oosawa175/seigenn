@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,20 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+# Python
+__pycache__/
+*.pyc
+
+# 環境変数
+.env
+
+# データベース
+*.db
+
+# その他
+*.log
+#クライアント関係
+cliant.py
+device_id.txt
+>>>>>>> d41a250 (first commit)
